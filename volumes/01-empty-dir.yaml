@@ -20,4 +20,3 @@ spec:
   - name: nginx-logs
     emptyDir:
       sizeLimit: 500Mi
-    
